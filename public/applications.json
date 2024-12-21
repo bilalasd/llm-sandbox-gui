@@ -1,0 +1,92 @@
+[
+  {
+    "pageName": "ML_LIFECYCLE_MANAGEMENT",
+    "label": "ML Lifecycle Management",
+    "applications": [
+      {
+        "name": "MLDM",
+        "image": "/images/c0aa1eee-cf66-43a2-b721-eb7c5b6071fb.PNG",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "MLDE",
+        "image": "/images/d569d1e5-76c6-4d0f-9dc9-4baf01dd13f4.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "MLIS",
+        "image": "/images/db984cbf-213d-4657-a30a-4936c0151c4f.PNG",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "Lang Flow",
+        "image": "/images/bddef12a-31bc-402b-a000-f35273661c35.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      }
+    ]
+  },
+  {
+    "pageName": "STORAGE",
+    "label": "Storage",
+    "applications": [
+      {
+        "name": "HDFS",
+        "image": "/images/37901a51-9485-4999-ba09-24d340434f67.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "HIVE",
+        "image": "/images/504aa302-faf7-42b1-a3fd-97442172f2fd.PNG",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "HBASE",
+        "image": "/images/0560d6fc-2ff9-448f-83d3-3c978541315e.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "KAFKA",
+        "image": "/images/5a064aab-95f4-4dec-b67f-97144594eba6.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "S3",
+        "image": "/images/563f0f16-b7a3-454f-8764-66395af112fb.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      }
+    ]
+  },
+  {
+    "pageName": "MONITORING",
+    "label": "Monitoring",
+    "applications": [
+      {
+        "name": "PROMETHEUS",
+        "image": "/images/7e5af3bc-75ef-4c73-beb8-a13e569f2e87.png",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "GRAFANA",
+        "image": "/images/8c44237f-c72e-4390-bc07-302b6b9f0b45.jpg",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      },
+      {
+        "name": "ELK",
+        "image": "/images/156b5632-8098-47c9-8be1-12ddc6e0653d.PNG",
+        "link": "http://google.com",
+        "description": "MLDM is a Machine Learning Development Manager"
+      }
+    ]
+  }
+]
